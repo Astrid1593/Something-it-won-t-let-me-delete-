@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    background: linear-gradient ( #2c3047 0%, #737eaa 100%);
+    background-repeat: no-repeat;
+}
+#swimming1{
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+#swimming2{
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
+}
+#swimmingp{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.histart{
+    font-family: "Arial", sans-serif;
+    font-size: 40px;
+}
+#poolpic{
+    width: 500px;
+}
+#about{
+    background: rgb(244,174,117);
+}
+#histarts{
+    background: rgb(244,117,117);
+}     
+#stuff{
+    background: rgb(244,228,117);
+}
+.links{
+    float: top;
+    color: coral;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right; 9px;
+    padding bottom:5px;
+    font-family: "Comic Sans MS", "Comic", cursive;
+    font-size: 25px;
+}
+.links: hover{
+    background-color: fuchsia;
+}
+#parent1{
+    font-family: "Arial", sans-serif;
+    font-size: 40px;
+}
+#parentname{
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
+}
+#parentreviewp{
+    font-family: "Comic Sans MS", cursive; 
+}
+#vidstitle{
+    font-family: "Brush Scripte MT", cursive;
+    font-size: 40px;
+}
+#vids{
+    background: rgb(186,233,121);
+}
+#firstpicture{
+    width: 405px;
+}
+a: hover{
+    color: darkorchid;
+}
+#abtitle{
+    font-family: "Brush Script MT", cursive;
+    font-size: 40px;
+}
+#abp{
+    font-family: "Comic Sans MS", cursive;
+    font-size: 20px;
+}
+#stufftitle{
+    font-family: "Arial", sans-serif;
+    font-size: 40px;
+}
+#yttitle{
+    font-family: "Arial", sans-serif;
+    font-size: 40px;
+}
+#yt{
+    background: rgb(178,219,247);
+}
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+h3{
+    color: black;
+}
+p{
+    color: black;
+}
